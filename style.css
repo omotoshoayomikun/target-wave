@@ -1,8 +1,10 @@
 body {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  /* background-color: rgba(221, 220, 220, 0.311); */
+  /* height: 100vh; */
 }
 .container {
   width: 100%;
